@@ -8,6 +8,8 @@ public class Class11 {
 		  String reversed = new StringBuilder(String.valueOf(s)).reverse().toString();
 
 		  System.out.println(reversed);
+
+		System.out.println("code push to repo");
 		
 	
 	}
